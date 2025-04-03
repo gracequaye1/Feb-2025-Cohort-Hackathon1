@@ -47,4 +47,47 @@ To view the project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/gracequaye1/portfolio-website.git
-# Feb-2025-Cohort-Hackathon1
+To view the project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/gracequaye1/Feb-2025-Cohort-Hackathon1.git
+
+**Navigate to the project directory:**
+
+
+cd Feb-2025-Cohort-Hackathon1
+Open index.html in your browser to view the website.
+
+**Usage**
+Once the website is opened in your browser, you will find:
+
+Hero Section: Learn more about me with links to my resume and portfolio.
+
+Skills & Projects: View my technical skills and the latest projects I've worked on.
+
+Contact Section: Get in touch with me for any inquiries or collaborations.
+
+**Contributing**
+I welcome contributions to improve or expand this portfolio! If you'd like to contribute, please follow these steps:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature-branch).
+
+Make your changes and commit them (git commit -am 'Added new feature').
+
+Push the changes (git push origin feature-branch).
+
+Submit a pull request for review.
+
+
+
+This version omits the license section. If you'd like to add a license later, you can always com
+
+
+
+
+
+
+
