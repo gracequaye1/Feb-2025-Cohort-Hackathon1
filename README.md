@@ -83,7 +83,7 @@ Submit a pull request for review.
 
 
 
-This version omits the license section. If you'd like to add a license later, you can always com
+
 
 
 
