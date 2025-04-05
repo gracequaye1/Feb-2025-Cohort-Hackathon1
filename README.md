@@ -46,7 +46,7 @@ To view the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/gracequaye1/portfolio-website.git
+   git clone https://github.com/gracequaye1/Feb-2025-Cohort-Hackathon1.git
 To view the project locally, follow these steps:
 
 1. **Clone the repository**:
